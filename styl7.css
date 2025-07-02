@@ -1,0 +1,76 @@
+*
+{
+	margin:0px;
+}
+#strona
+{
+
+	font-size:30px;
+}
+#baner
+{
+	width:100%;
+	height:300px;	
+	background-color:blue;
+}
+#lewy
+{
+float: left;
+	background-color:red;
+	height:800px;
+	width:20%;
+}
+#glowny
+{
+	    float: left;
+    width: 60%;
+    height: 800px;
+    background-color: yellow;
+}
+#prawy
+{
+	float:left;
+	height:800px;
+	background-color:green;
+	width:20%;
+}
+#stopka
+{
+	clear:left;
+	width:100%;
+	height:100px;
+	background-color:blue;
+}
+.link
+{
+	text-decoration:none;
+	color:black;
+}
+#litery
+{
+
+color: white;
+font-size:50px;	
+text-align:center;
+text-shadow: 5px 3px #777ff7; 
+}
+#obrazek
+{
+position:fixed;
+left:200px;
+	
+	height:200px;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+a:hover
+{
+	color:blue;
+	cursor:pointer;
+}
+
+
+
+
